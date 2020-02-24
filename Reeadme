@@ -1,0 +1,7 @@
+a continuacion se leera una pequeño manual para la ejecucion del programa
+
+tener ambiente de desarrollo eclipse
+dar clic derecho  sobre el panel de proyectos  y seleccionar la opcion de importar
+Selecionar la opcion de maven / exiating  maven project
+Nota: Descargar el chromedriver y validar la ruta en su equipo y en el codigo para la correcta ejecucion del software
+chromedriver debe ser mayor a version 80
